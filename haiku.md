@@ -2,14 +2,13 @@ Hello World!
 
 
 
+What is a haiku?
+Is it something I can buy?
+Please, someone help me!
 
 
 
 
 
-
-The wind is flowing
-The rot consumes evermore
-We e e e e
 
 Goodbye World!
